@@ -1,0 +1,9 @@
+CREATE [ OR REPLACE ] PROCEDURE procedure_name 
+[( Parameter [ parameter ] ) ] 
+IS 
+[ declaration_section ] 
+BEGIN 
+executable_section 
+[ EXCEPTION 
+exception_section] 
+END [ procedure_name]; 
